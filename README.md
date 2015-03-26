@@ -11,8 +11,11 @@ label的特性全都有，使用起来更友好更方便。
 
 实现点击人名，整行不同的效果
 
-![MLEmojiLabel2](https://github.com/wfkbyni/MLEmojiLabelTest/blob/master/5A73E6C9-B19C-4930-BEF3-A529E49E6EF2.png)
+![MLEmojiLabel3](https://github.com/wfkbyni/MLEmojiLabelTest/blob/master/771BB821-D71E-421E-B78F-45095127D631.png)
 
+![MLEmojiLabel3](https://github.com/wfkbyni/MLEmojiLabelTest/blob/master/8B7DCF87-CA01-4838-8566-4CE7CD969E83.png)
+
+![MLEmojiLabel3](https://github.com/wfkbyni/MLEmojiLabelTest/blob/master/E8EF71DB-50E0-487C-9A80-09D88486A03B.png)
 
 
 
